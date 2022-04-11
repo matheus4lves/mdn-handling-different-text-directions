@@ -11,4 +11,5 @@ body {
   background-color: lightgray;
   padding: 40px;
   margin: 40px;
+  writing-mode: vertical-rl;
 }
