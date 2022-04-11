@@ -1,0 +1,17 @@
+@import "base/_global.css";
+@import "modules/_primary-nav.css";
+
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 200px;
+  height: 100px;
+}
+
+.vertical {
+  writing-mode: vertical-rl;
+  inline-size: 200px;
+  block-size: 100px;
+}
